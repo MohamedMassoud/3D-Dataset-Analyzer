@@ -1,0 +1,7 @@
+@relation plastic
+@attribute Strength real [12.4,48.7]
+@attribute Temperature real [200.0,300.0]
+@attribute Pressure real [10.0,20.0]
+@inputs Strength,Temperature
+@outputs Pressure
+@data

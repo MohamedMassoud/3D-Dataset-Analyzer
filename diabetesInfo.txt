@@ -1,0 +1,7 @@
+@relation diabetes
+@attribute Age real [0.9, 15.6]
+@attribute Deficit real [-29.0, -0.2]
+@attribute C_peptide real [3.0, 6.6]
+@inputs Age, Deficit
+@outputs C_peptide
+@data
