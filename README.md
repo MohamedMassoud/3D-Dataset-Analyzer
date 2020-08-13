@@ -3,4 +3,4 @@
 
 **Sample**
 
-![trial.PNG]
+![](trial.PNG)
