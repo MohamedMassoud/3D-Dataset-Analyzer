@@ -3,4 +3,6 @@
 
 **Sample**
 
+For example type in banana.dat in the console.
+
 ![](trial.PNG)
